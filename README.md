@@ -1,6 +1,5 @@
 # Handbooks
 
-
 ## Employee handbooks
 
 - [Valve](https://assets.sbnation.com/assets/1074301/Valve_Handbook_LowRes.pdf)
@@ -25,3 +24,9 @@
 - [Posthog](https://posthog.com/handbook)
 - [Buffer](https://buffer.com/open)
 - [Atlassian](https://atlassianblog.wpengine.com/wp-content/uploads/2024/01/lessonslearned.pdf)
+
+## Methods and analytics
+
+- [Gource](https://github.com/acaudwell/Gource) - visualization tool for repositories
+
+Pandey, S., & Pandey, S. K. (2019). Applying natural language processing capabilities in computerized textual analysis to measure organizational culture. Organizational Research Methods, 22(3), 765-797.
