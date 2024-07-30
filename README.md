@@ -24,6 +24,7 @@
 - [Posthog](https://posthog.com/handbook)
 - [Buffer](https://buffer.com/open)
 - [Atlassian](https://atlassianblog.wpengine.com/wp-content/uploads/2024/01/lessonslearned.pdf)
+- [Google](https://docs.google.com/document/d/1MiDUOqiY8UHUxbHqe9sVa8rezFplnl1b2HBxAZGKGh8/edit)
 
 ## Methods and analytics
 
