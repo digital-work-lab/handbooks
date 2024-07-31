@@ -26,6 +26,10 @@
 - [Atlassian](https://atlassianblog.wpengine.com/wp-content/uploads/2024/01/lessonslearned.pdf)
 - [Google](https://docs.google.com/document/d/1MiDUOqiY8UHUxbHqe9sVa8rezFplnl1b2HBxAZGKGh8/edit)
 
+## Lab handbooks
+
+- [NeuroPoly](https://neuro.polymtl.ca/README.html)
+
 ## Methods and analytics
 
 - [Gource](https://github.com/acaudwell/Gource) - visualization tool for repositories
