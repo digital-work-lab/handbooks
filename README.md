@@ -30,6 +30,10 @@
 
 - [NeuroPoly](https://neuro.polymtl.ca/README.html)
 
+## Lists
+
+- [hkdobrev/awesome-handbooks](https://github.com/hkdobrev/awesome-handbooks)
+
 ## Methods and analytics
 
 - [Gource](https://github.com/acaudwell/Gource) - visualization tool for repositories
