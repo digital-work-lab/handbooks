@@ -28,6 +28,11 @@
 - [WIPO Patent Analytics](https://github.com/wipo-analytics/handbook)
 - [Docker Handbook](https://github.com/fhsinchy/the-docker-handbook)
 - [The Epidemiologist R Handbook](https://github.com/appliedepi/epiRhandbook_eng_achive)
+- [37signals](https://github.com/basecamp/handbook)
+- [Made Tech](https://github.com/madetech/handbook)
+- [Interaction Design Foundation](https://github.com/InteractionDesignFoundation/handbook)
+- [Reef-Technologies](https://github.com/reef-technologies/handbook)
+- []()
 
 ## Lab handbooks
 
