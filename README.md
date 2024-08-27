@@ -25,6 +25,9 @@
 - [Buffer](https://buffer.com/open)
 - [Atlassian](https://atlassianblog.wpengine.com/wp-content/uploads/2024/01/lessonslearned.pdf)
 - [Google](https://docs.google.com/document/d/1MiDUOqiY8UHUxbHqe9sVa8rezFplnl1b2HBxAZGKGh8/edit)
+- [WIPO Patent Analytics](https://github.com/wipo-analytics/handbook)
+- [Docker Handbook](https://github.com/fhsinchy/the-docker-handbook)
+- [The Epidemiologist R Handbook](https://github.com/appliedepi/epiRhandbook_eng_achive)
 
 ## Lab handbooks
 
