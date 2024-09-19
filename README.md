@@ -25,18 +25,22 @@
 - [Buffer](https://buffer.com/open)
 - [Atlassian](https://atlassianblog.wpengine.com/wp-content/uploads/2024/01/lessonslearned.pdf)
 - [Google](https://docs.google.com/document/d/1MiDUOqiY8UHUxbHqe9sVa8rezFplnl1b2HBxAZGKGh8/edit)
-- [WIPO Patent Analytics](https://github.com/wipo-analytics/handbook)
-- [Docker Handbook](https://github.com/fhsinchy/the-docker-handbook)
-- [The Epidemiologist R Handbook](https://github.com/appliedepi/epiRhandbook_eng_achive)
 - [37signals](https://github.com/basecamp/handbook)
-- [Made Tech](https://github.com/madetech/handbook)
-- [Interaction Design Foundation](https://github.com/InteractionDesignFoundation/handbook)
 - [Reef-Technologies](https://github.com/reef-technologies/handbook)
-- []()
-
-## Lab handbooks
-
-- [NeuroPoly](https://neuro.polymtl.ca/README.html)
+- [Sourcegraph](https://github.com/sourcegraph/handbook)
+- [Niteo](https://github.com/teamniteo/handbook)
+- [Rocket.Chat](https://github.com/RocketChat/handbook)
+- [Hypha](https://github.com/hyphacoop/handbook)
+- [Mattermost](https://github.com/mattermost/mattermost-handbook)
+- [Ever](https://github.com/ever-co/handbook)
+- [Meltano](https://github.com/meltano/handbook)
+- [Sparksuite’s](https://github.com/sparksuite/employee-handbook)
+- [Airbyte](https://handbook.airbyte.com/)
+- [Bonusly](https://github.com/bonusly/un-handbook)
+- [CG Cookie](https://github.com/CGCookie/handbook)
+- [HolidayExtras](https://github.com/holidayextras/culture)
+- [Made Tech](https://github.com/madetech/handbook)
+- [Mondora](https://github.com/mondora/handbook)
 
 ## Lists
 
