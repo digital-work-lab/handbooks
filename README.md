@@ -2,45 +2,46 @@
 
 ## Employee handbooks
 
-- [Valve](https://assets.sbnation.com/assets/1074301/Valve_Handbook_LowRes.pdf)
-- [Hubspot](https://de.slideshare.net/slideshow/the-hubspot-culture-code-creating-a-company-we-love/17415022)
-- [Netflix](https://igormroz.com/documents/netflix_culture.pdf)
-- [Facebook](https://airows.com/creative/a-look-inside-the-beautiful-handbook-facebook-gives-all-new-employees)
-- [Trello](https://trello.com/b/HbTEX5hb/employee-manual)
-- [Zappos](https://www.zappos.com/c/zappos-insights)
-- [GitLab](https://handbook.gitlab.com/)
-- [Glitch](https://handbook.glitch.me/)
-- [MarsBased](https://github.com/MarsBased/handbook)
-- [Basecamp](https://github.com/basecamp/handbook)
-- [Hanno](https://playbook.hanno.co/)
-- [Trello](https://trello.com/b/HbTEX5hb/employee-manual)
-- [Toptal](https://www.toptal.com/remote-work-playbook)
-- [Clef](https://github.com/clef/handbook)
-- [Convertkit](https://convertkit.com/handbook)
-- [Bolt](https://conscious.org/bolts-conscious-culture-culture-playbook/)
-- [Innolitics](https://innolitics.com/about/handbook/)
-- [HumandMade](https://handbook.hmn.md/)
-- [Warp](https://warpdev.notion.site/Public-Warp-How-We-Work-b872d41a1da743fca18220a731aeba48)
-- [Posthog](https://posthog.com/handbook)
-- [Buffer](https://buffer.com/open)
-- [Atlassian](https://atlassianblog.wpengine.com/wp-content/uploads/2024/01/lessonslearned.pdf)
-- [Google](https://docs.google.com/document/d/1MiDUOqiY8UHUxbHqe9sVa8rezFplnl1b2HBxAZGKGh8/edit)
-- [37signals](https://github.com/basecamp/handbook)
-- [Reef-Technologies](https://github.com/reef-technologies/handbook)
-- [Sourcegraph](https://github.com/sourcegraph/handbook)
-- [Niteo](https://github.com/teamniteo/handbook)
-- [Rocket.Chat](https://github.com/RocketChat/handbook)
-- [Hypha](https://github.com/hyphacoop/handbook)
-- [Mattermost](https://github.com/mattermost/mattermost-handbook)
-- [Ever](https://github.com/ever-co/handbook)
-- [Meltano](https://github.com/meltano/handbook)
-- [Sparksuite’s](https://github.com/sparksuite/employee-handbook)
-- [Airbyte](https://handbook.airbyte.com/)
-- [Bonusly](https://github.com/bonusly/un-handbook)
-- [CG Cookie](https://github.com/CGCookie/handbook)
-- [HolidayExtras](https://github.com/holidayextras/culture)
-- [Made Tech](https://github.com/madetech/handbook)
-- [Mondora](https://github.com/mondora/handbook)
+| Company         | GitHub Repo URL                                         | URL (if not GitHub)                                                       |
+|-----------------|--------------------------------------------------------|---------------------------------------------------------------------------|
+| MarsBased       | [MarsBased Handbook](https://github.com/MarsBased/handbook)                   |                                                                           |
+| Basecamp        | [Basecamp Handbook](https://github.com/basecamp/handbook)                    |                                                                           |
+| Clef            | [Clef Handbook](https://github.com/clef/handbook)                        |                                                                           |
+| 37signals       | [37signals Handbook](https://github.com/basecamp/handbook)                    |                                                                           |
+| Reef-Technologies | [Reef-Technologies Handbook](https://github.com/reef-technologies/handbook)          |                                                                           |
+| Sourcegraph     | [Sourcegraph Handbook](https://github.com/sourcegraph/handbook)                 |                                                                           |
+| Niteo           | [Niteo Handbook](https://github.com/teamniteo/handbook)                   |                                                                           |
+| Rocket.Chat     | [Rocket.Chat Handbook](https://github.com/RocketChat/handbook)                  |                                                                           |
+| Hypha           | [Hypha Handbook](https://github.com/hyphacoop/handbook)                   |                                                                           |
+| Mattermost      | [Mattermost Handbook](https://github.com/mattermost/mattermost-handbook)       |                                                                           |
+| Ever            | [Ever Handbook](https://github.com/ever-co/handbook)                     |                                                                           |
+| Meltano         | [Meltano Handbook](https://github.com/meltano/handbook)                     |                                                                           |
+| Sparksuite      | [Sparksuite Employee Handbook](https://github.com/sparksuite/employee-handbook)         |                                                                           |
+| Bonusly         | [Bonusly Handbook](https://github.com/bonusly/un-handbook)                  |                                                                           |
+| CG Cookie       | [CG Cookie Handbook](https://github.com/CGCookie/handbook)                    |                                                                           |
+| HolidayExtras   | [HolidayExtras Culture](https://github.com/holidayextras/culture)                |                                                                           |
+| Made Tech       | [Made Tech Handbook](https://github.com/madetech/handbook)                    |                                                                           |
+| Mondora         | [Mondora Handbook](https://github.com/mondora/handbook)                     |                                                                           |
+| Valve           |                                                          | [Valve Handbook](https://assets.sbnation.com/assets/1074301/Valve_Handbook_LowRes.pdf)      |
+| Hubspot         |                                                          | [Hubspot Culture Code](https://de.slideshare.net/slideshow/the-hubspot-culture-code-creating-a-company-we-love/17415022) |
+| Netflix         |                                                          | [Netflix Culture](https://igormroz.com/documents/netflix_culture.pdf)                       |
+| Facebook        |                                                          | [Facebook Handbook](https://airows.com/creative/a-look-inside-the-beautiful-handbook-facebook-gives-all-new-employees) |
+| Trello          |                                                          | [Trello Employee Manual](https://trello.com/b/HbTEX5hb/employee-manual)                             |
+| Zappos          |                                                          | [Zappos Insights](https://www.zappos.com/c/zappos-insights)                                  |
+| GitLab          |                                                          | [GitLab Handbook](https://handbook.gitlab.com/)                                              |
+| Glitch          |                                                          | [Glitch Handbook](https://handbook.glitch.me/)                                               |
+| Toptal          |                                                          | [Toptal Remote Work Playbook](https://www.toptal.com/remote-work-playbook)                               |
+| Convertkit      |                                                          | [Convertkit Handbook](https://convertkit.com/handbook)                                           |
+| Bolt            |                                                          | [Bolt Culture Playbook](https://conscious.org/bolts-conscious-culture-culture-playbook/)           |
+| Innolitics      |                                                          | [Innolitics Handbook](https://innolitics.com/about/handbook/)                                    |
+| HumanMade       |                                                          | [HumanMade Handbook](https://handbook.hmn.md/)                                                  |
+| Warp            |                                                          | [Warp Handbook](https://warpdev.notion.site/Public-Warp-How-We-Work-b872d41a1da743fca18220a731aeba48) |
+| Posthog         |                                                          | [Posthog Handbook](https://posthog.com/handbook)                                              |
+| Buffer          |                                                          | [Buffer Open Handbook](https://buffer.com/open)                                                   |
+| Atlassian       |                                                          | [Atlassian Lessons Learned](https://atlassianblog.wpengine.com/wp-content/uploads/2024/01/lessonslearned.pdf) |
+| Google          |                                                          | [Google Document](https://docs.google.com/document/d/1MiDUOqiY8UHUxbHqe9sVa8rezFplnl1b2HBxAZGKGh8/edit) |
+| Airbyte         |                                                          | [Airbyte Handbook](https://handbook.airbyte.com/)                                             |
+
 
 ## Lab handbooks
 
