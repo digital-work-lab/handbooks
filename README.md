@@ -42,6 +42,10 @@
 - [Made Tech](https://github.com/madetech/handbook)
 - [Mondora](https://github.com/mondora/handbook)
 
+## Lab handbooks
+
+- [NeuroPoly](https://neuro.polymtl.ca/README.html)
+
 ## Lists
 
 - [hkdobrev/awesome-handbooks](https://github.com/hkdobrev/awesome-handbooks)
