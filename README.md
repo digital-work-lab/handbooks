@@ -2,7 +2,7 @@
 
 ## Employee handbooks
 
-| Company         | GitHub Repo URL                                         | URL (if not GitHub)                                                       |
+| Company         | GitHub Repo URL                                         | Public handbook page URL                                                 |
 |-----------------|--------------------------------------------------------|---------------------------------------------------------------------------|
 | MarsBased       | [MarsBased Handbook](https://github.com/MarsBased/handbook)                   |                                                                           |
 | Basecamp        | [Basecamp Handbook](https://github.com/basecamp/handbook)                    |                                                                           |
