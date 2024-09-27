@@ -4,7 +4,7 @@
 
 | Company         | GitHub Repo URL                                         | Public handbook page URL                                                 |
 |-----------------|--------------------------------------------------------|---------------------------------------------------------------------------|
-| MarsBased       | [MarsBased Handbook](https://github.com/MarsBased/handbook)                   |                                                                           |
+| MarsBased       | [MarsBased Handbook](https://github.com/MarsBased/handbook)                   | NA                                                                         |
 | Basecamp        | [Basecamp Handbook](https://github.com/basecamp/handbook)                    |                                                                           |
 | Clef            | [Clef Handbook](https://github.com/clef/handbook)                        |                                                                           |
 | 37signals       | [37signals Handbook](https://github.com/basecamp/handbook)                    |                                                                           |
