@@ -4,6 +4,7 @@
 
 | Company         | GitHub Repo URL                                         | Public handbook page URL                                                 |
 |-----------------|--------------------------------------------------------|---------------------------------------------------------------------------|
+| GitLab          |                                                          | [GitLab Handbook](https://handbook.gitlab.com/)                                              |
 | MarsBased       | [MarsBased Handbook](https://github.com/MarsBased/handbook)                   | NA                                                                         |
 | Basecamp        | [Basecamp Handbook](https://github.com/basecamp/handbook)                    |                                                                           |
 | Clef            | [Clef Handbook](https://github.com/clef/handbook)                        |                                                                           |
@@ -28,7 +29,6 @@
 | Facebook        |                                                          | [Facebook Handbook](https://airows.com/creative/a-look-inside-the-beautiful-handbook-facebook-gives-all-new-employees) |
 | Trello          |                                                          | [Trello Employee Manual](https://trello.com/b/HbTEX5hb/employee-manual)                             |
 | Zappos          |                                                          | [Zappos Insights](https://www.zappos.com/c/zappos-insights)                                  |
-| GitLab          |                                                          | [GitLab Handbook](https://handbook.gitlab.com/)                                              |
 | Glitch          |                                                          | [Glitch Handbook](https://handbook.glitch.me/)                                               |
 | Toptal          |                                                          | [Toptal Remote Work Playbook](https://www.toptal.com/remote-work-playbook)                               |
 | Convertkit      |                                                          | [Convertkit Handbook](https://convertkit.com/handbook)                                           |
