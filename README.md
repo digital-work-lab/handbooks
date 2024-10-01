@@ -4,7 +4,7 @@
 
 | Company           | GitHub Repo URL                                                                 | Public handbook page URL                                                                                                 | Commits |
 |-------------------|---------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------| ------- |
-| GitLab            |                                                                                 | [GitLab Handbook](https://handbook.gitlab.com/)                                                                          | TODO    |
+| GitLab            | [GiLab Handbook](https://gitlab.com/gitlab-com/content-sites/handbook)          | [GitLab Handbook](https://handbook.gitlab.com/)                                                                          | 85,000  |
 | MarsBased         | [MarsBased Handbook](https://github.com/MarsBased/handbook)                     | NA                                                                                                                       | 260     |
 | Basecamp          | [Basecamp Handbook](https://github.com/basecamp/handbook)                       | [Basecamp Handbook](https://basecamp.com/handbook)                                                                       | 451     |
 | Clef              | [Clef Handbook](https://github.com/clef/handbook)                               |                                                                                                                          | TODO    |
