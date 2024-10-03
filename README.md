@@ -34,12 +34,12 @@
 | Bolt              | NA                                                                              | [Bolt Culture Playbook](https://conscious.org/bolts-conscious-culture-culture-playbook/)                                 | NA      |
 | Innolitics        | NA                                                                              | [Innolitics Handbook](https://innolitics.com/about/handbook/)                                                            | NA      |
 | HumanMade         | NA                                                                              | [HumanMade Handbook](https://handbook.hmn.md/)                                                                           | NA      |
-| Warp              |                                                                                 | [Warp Handbook](https://warpdev.notion.site/Public-Warp-How-We-Work-b872d41a1da743fca18220a731aeba48)                    | NA      |
-| Posthog           |                                                                                 | [Posthog Handbook](https://posthog.com/handbook)                                                                         | NA      |
-| Buffer            |                                                                                 | [Buffer Open Handbook](https://buffer.com/open)                                                                          | NA      |
-| Atlassian         |                                                                                 | [Atlassian Lessons Learned](https://atlassianblog.wpengine.com/wp-content/uploads/2024/01/lessonslearned.pdf)            | NA      |
-| Google            |                                                                                 | [Google Document](https://docs.google.com/document/d/1MiDUOqiY8UHUxbHqe9sVa8rezFplnl1b2HBxAZGKGh8/edit)                  | NA      |
-| Airbyte           |                                                                                 | [Airbyte Handbook](https://handbook.airbyte.com/)                                                                        | NA      |
+| Warp              | NA                                                                              | [Warp Handbook](https://warpdev.notion.site/Public-Warp-How-We-Work-b872d41a1da743fca18220a731aeba48)                    | NA      |
+| Posthog           | NA                                                                              | [Posthog Handbook](https://posthog.com/handbook)                                                                         | NA      |
+| Buffer            | NA                                                                              | [Buffer Open Handbook](https://buffer.com/open)                                                                          | NA      |
+| Atlassian         | NA                                                                              | [Atlassian Lessons Learned](https://atlassianblog.wpengine.com/wp-content/uploads/2024/01/lessonslearned.pdf)            | NA      |
+| Google            | NA                                                                              | [Google Document](https://docs.google.com/document/d/1MiDUOqiY8UHUxbHqe9sVa8rezFplnl1b2HBxAZGKGh8/edit)                  | NA      |
+| Airbyte           | NA                                                                              | [Airbyte Handbook](https://handbook.airbyte.com/)                                                                        | NA      |
 
 
 ## Lab handbooks
