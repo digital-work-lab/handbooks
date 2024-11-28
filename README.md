@@ -44,7 +44,7 @@
 
 ## Lab handbooks
 
-- [NeuroPoly](https://neuro.polymtl.ca/README.html)
+- [NeuroPoly](https://neuro.polymtl.ca/README.html) - [repository](https://github.com/neuropoly/neuro.polymtl.ca)
 
 ## Lists
 
