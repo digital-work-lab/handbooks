@@ -55,5 +55,3 @@
 
 - [Gource](https://github.com/acaudwell/Gource) - visualization tool for repositories
 - [Hercules](https://github.com/src-d/hercules)
-
-Pandey, S., & Pandey, S. K. (2019). Applying natural language processing capabilities in computerized textual analysis to measure organizational culture. Organizational Research Methods, 22(3), 765-797.
