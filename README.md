@@ -4,7 +4,7 @@
 
 | Company           | GitHub Repo URL                                                                 | Public handbook page URL                                                                                                 | Commits |
 |-------------------|---------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------| ------- |
-| GitLab            | [GiLab Handbook](https://gitlab.com/gitlab-com/content-sites/handbook) / [full repo](https://gitlab.com/gitlab-com/www-gitlab-com) | [GitLab Handbook](https://handbook.gitlab.com/)                                                                          | 350,000  |
+| GitLab            | [GiLab Handbook](https://gitlab.com/gitlab-com/content-sites/handbook) / [full repo](https://gitlab.com/gitlab-com/www-gitlab-com) | [GitLab Handbook](https://handbook.gitlab.com/)                       | 95,000  |
 | Sourcegraph       | [Sourcegraph Handbook](https://github.com/sourcegraph/handbook)                 | [Sourcegraph handbook](https://basecamp.com/handbook)                                                                    | 11,700  |
 | Mattermost        | [Mattermost Handbook](https://github.com/mattermost/mattermost-handbook)        | [Mattermost handbook](https://handbook.mattermost.com/)                                                                  | 1,900   |
 | Made Tech         | [Made Tech Handbook](https://github.com/madetech/handbook)                      | NA                                                                                                                       | 1,500   |
