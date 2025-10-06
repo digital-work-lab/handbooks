@@ -1,6 +1,6 @@
 # Handbooks
 
-## Employee handbooks
+## Organizational employee handbooks
 
 | Company           | GitHub Repo URL                                                                 | Public handbook page URL                                                                                                 | Commits |
 |-------------------|---------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------| ------- |
@@ -42,7 +42,7 @@
 | Airbyte           | NA                                                                              | [Airbyte Handbook](https://handbook.airbyte.com/)                                                                        | NA      |
 
 
-## Lab handbooks
+## Academic lab handbooks
 
 - [NeuroPoly](https://neuro.polymtl.ca/README.html) - [repository](https://github.com/neuropoly/neuro.polymtl.ca)
 - [ielab](https://github.com/ielab/ielab.github.io)
