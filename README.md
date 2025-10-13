@@ -46,6 +46,18 @@
 
 - [NeuroPoly](https://neuro.polymtl.ca/README.html) - [repository](https://github.com/neuropoly/neuro.polymtl.ca)
 - [ielab](https://github.com/ielab/ielab.github.io)
+- [Ada WIP handbook]() - [repository](https://github.com/adacollege/handbook)
+- [Brainhack Princeton (Handbook for Reproducible Neuroimaging)](https://brainhack-princeton.github.io/handbook/) - [repository](https://github.com/brainhack-princeton/handbook)
+- [Vanderbilt Biostatistics Grad Student Handbook]() - [repository](https://github.com/vandybgsa/handbook)
+- [Persson Group Handbook]() - [repository](https://github.com/perssongroup/handbook)
+- [mitodl](https://mitodl.github.io/handbook/) - [repository](https://github.com/mitodl/handbook)
+- [uspcode](https://codelab-handbook.netlify.com/) - [repository](https://github.com/uspcodelab/handbook)
+- [digital-work-lab](https://digital-work-lab.github.io/handbook/) - [repository](https://github.com/digital-work-lab/handbook)
+- [very-good-science](https://very-good-science.github.io/our-handbook/guide/what-is-our-handbook.html) - [repository](https://github.com/very-good-science/our-handbook)
+- [phase-0-]() - [repository](https://github.com/TakaakiFuruse/phase-0-handbook)
+- [openfun](https://handbook.openfun.fr/) - [repository](https://github.com/openfun/handbook)
+- [very-good-science](https://very-good-science.github.io/our-handbook/guide/what-is-our-handbook.html) - [repository](https://github.com/very-good-science/our-handbook)
+
 
 ## Lists
 
