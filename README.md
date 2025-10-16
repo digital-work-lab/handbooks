@@ -6,6 +6,7 @@
 |-------------------|---------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------| ------- |
 | GitLab            | [GiLab Handbook](https://gitlab.com/gitlab-com/content-sites/handbook) / [full repo](https://gitlab.com/gitlab-com/www-gitlab-com) | [GitLab Handbook](https://handbook.gitlab.com/)                       | 95,000  |
 | Sourcegraph       | [Sourcegraph Handbook](https://github.com/sourcegraph/handbook)                 | [Sourcegraph handbook](https://basecamp.com/handbook)                                                                    | 11,700  |
+| Mautic            | [Mautic community handbook](https://github.com/mautic/mautic-community-handbook) | [Mautic community handbook](Mautic Community Handbook)                                                                  | 1,900   |
 | Mattermost        | [Mattermost Handbook](https://github.com/mattermost/mattermost-handbook)        | [Mattermost handbook](https://handbook.mattermost.com/)                                                                  | 1,900   |
 | Made Tech         | [Made Tech Handbook](https://github.com/madetech/handbook)                      | NA                                                                                                                       | 1,500   |
 | Rocket.Chat       | [Rocket.Chat Handbook](https://github.com/RocketChat/handbook)                  | [Rocket.Chat handbook](https://handbook.rocket.chat/space/Handbook)                                                      | 1,070   |
@@ -41,7 +42,6 @@
 | Google            | NA                                                                              | [Google Document](https://docs.google.com/document/d/1MiDUOqiY8UHUxbHqe9sVa8rezFplnl1b2HBxAZGKGh8/edit)                  | NA      |
 | Airbyte           | NA                                                                              | [Airbyte Handbook](https://handbook.airbyte.com/)                                                                        | NA      |
 
-
 ## Academic lab handbooks
 
 - [NeuroPoly](https://neuro.polymtl.ca/README.html) - [repository](https://github.com/neuropoly/neuro.polymtl.ca)
@@ -57,7 +57,6 @@
 - [phase-0-]() - [repository](https://github.com/TakaakiFuruse/phase-0-handbook)
 - [openfun](https://handbook.openfun.fr/) - [repository](https://github.com/openfun/handbook)
 - [very-good-science](https://very-good-science.github.io/our-handbook/guide/what-is-our-handbook.html) - [repository](https://github.com/very-good-science/our-handbook)
-
 
 ## Lists
 
