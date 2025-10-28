@@ -57,6 +57,8 @@
 - [phase-0-]() - [repository](https://github.com/TakaakiFuruse/phase-0-handbook)
 - [openfun](https://handbook.openfun.fr/) - [repository](https://github.com/openfun/handbook)
 - [very-good-science](https://very-good-science.github.io/our-handbook/guide/what-is-our-handbook.html) - [repository](https://github.com/very-good-science/our-handbook)
+- [dib-lab](http://ivory.idyll.org/lab/) - [repository](https://github.com/dib-lab/dib-lab)
+- [Advanced Reactors and Fuel Cycles group](https://arfc.github.io/) - [repository](https://github.com/arfc/arfc.github.io)
 
 ## Lists
 
