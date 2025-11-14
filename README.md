@@ -47,6 +47,7 @@
 - [NeuroPoly](https://neuro.polymtl.ca/README.html) - [repository](https://github.com/neuropoly/neuro.polymtl.ca)
 - [ielab](https://github.com/ielab/ielab.github.io)
 - [Ada WIP handbook]() - [repository](https://github.com/adacollege/handbook)
+- [BrunaLab website](https://github.com/BrunaLab/bruna-lab-website)
 - [Brainhack Princeton (Handbook for Reproducible Neuroimaging)](https://brainhack-princeton.github.io/handbook/) - [repository](https://github.com/brainhack-princeton/handbook)
 - [Vanderbilt Biostatistics Grad Student Handbook]() - [repository](https://github.com/vandybgsa/handbook)
 - [Persson Group Handbook]() - [repository](https://github.com/perssongroup/handbook)
