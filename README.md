@@ -63,6 +63,7 @@
 - [dib-lab](http://ivory.idyll.org/lab/) - [repository](https://github.com/dib-lab/dib-lab)
 - [Advanced Reactors and Fuel Cycles group](https://arfc.github.io/) - [repository](https://github.com/arfc/arfc.github.io)
 - [repository](github.com/amyjko/faculty)
+- [ContextLab](https://github.com/ContextLab/lab-manual)
 
 ## Lists
 
